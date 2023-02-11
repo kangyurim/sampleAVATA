@@ -1,0 +1,2 @@
+# sampleAVATA
+AVATA연습
